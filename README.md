@@ -30,7 +30,7 @@ Proyecto del curso Análisis de Sentimientos en Redes Sociales
 ---
 ### **NOTA:** Toda la información producida durante el proyecto esta disponible en **https://drive.google.com/drive/folders/1v6ttK1kLlbDPv3gwIl_qY6QtO9HhZjMk?usp=sharing** el drive de Google: las bases de datos con los tweets descargados y procesados se encuentran como **archivos CSV** zipeados, asi como tambien los modelos de NLP (serializados con pickle).
 ---
-## **TA_POLITICA-03_preprocessing.ipynb**
+## NOTEBOOK **TA_POLITICA-03_preprocessing.ipynb**
 >### ENTRADA:
 >### **"politicosdb.csv"** :  ( drive: **politicos_lista_anotada.zip** )
 >### Informacion sobre cada usuario con información anotada ( **partido** y **orientacion** ) usada para reparticionar los tweets en DataFrames organizados por orientacion y partido
