@@ -62,3 +62,12 @@ der - derecha / cder - centro derecha / cen - centro / cizq - centro izquierda /
 >### **"wordswarm_wordcloud en tiempo.avi"** ( drive: **wordswarm_animacion_wordcloud.avi** ) : Una animación de la evolución del wordcloud de todos los twitters en el tiempo, en cada frame se muestra el wordcloud en una ventana de tiempo de un año que avanza por días
 >### Otros graficos estadisticos y wordclouds
 
+---
+### **NOTA:** Toda la información producida durante el proyecto esta disponible en **https://drive.google.com/drive/folders/1v6ttK1kLlbDPv3gwIl_qY6QtO9HhZjMk?usp=sharing** el drive de Google: las bases de datos con los tweets descargados y procesados se encuentran como **archivos CSV** zipeados, asi como tambien los modelos de NLP (serializados con pickle).
+---
+## NOTEBOOK: #**TA_POLITICA-05_topic_modeling.ipynb**
+>### ENTRADA:
+>### **"all_tweets_db.csv"**  (drive: **all_tweets_db.zip** ) Todos los tweets en un solo dataframe
+---
+>### SALIDA:
+>### **modelos serializados**
